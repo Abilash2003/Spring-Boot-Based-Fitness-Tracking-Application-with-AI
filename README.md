@@ -1,2 +1,27 @@
-# fitness-microservices-demo
-Fitness Tracker Microservices using Spring Boot, Eureka, MongoDB, PostgreSQL and Frontend UI
+# 🏋️ Fitness Tracker Microservices Project
+
+A microservices-based fitness tracking system built using Spring Boot and modern backend technologies.
+
+## 🚀 Features
+- User Registration & Login
+- BMI Calculation & Health Recommendations
+- Activity Tracking Service
+- Service Discovery using Eureka
+- REST API Integration
+- Simple Frontend UI (HTML/CSS/JS)
+
+## 🧩 Architecture
+- User Service (Spring Boot + PostgreSQL)
+- Activity Service (Spring Boot + MongoDB)
+- Eureka Server (Service Discovery)
+- Frontend (HTML + JavaScript)
+
+## 🛠️ Tech Stack
+- Java 17
+- Spring Boot
+- Spring Cloud Eureka
+- PostgreSQL
+- MongoDB
+- REST APIs
+- HTML, CSS, JavaScript
+
