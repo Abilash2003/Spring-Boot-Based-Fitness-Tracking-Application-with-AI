@@ -1,6 +1,7 @@
 # 🏋️ Fitness Tracker Microservices Project
 
-A microservices-based fitness tracking system built using Spring Boot and modern backend technologies.
+A microservices-based fitness tracking system built using Spring Boot and modern backend technologie
+Ai Recomendations.
 
 ## 🚀 Features
 - User Registration & Login
@@ -8,6 +9,7 @@ A microservices-based fitness tracking system built using Spring Boot and modern
 - Activity Tracking Service
 - Service Discovery using Eureka
 - REST API Integration
+- gemini API Integration
 - Simple Frontend UI (HTML/CSS/JS)
 
 ## 🧩 Architecture
