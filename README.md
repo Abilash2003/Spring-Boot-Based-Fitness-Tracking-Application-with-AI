@@ -1,6 +1,6 @@
-# 🏋️ Fitness Tracker Microservices Project
+# 🏋️ Spring Boot-Based Fitness Tracking Application with AI
 
-A microservices-based fitness tracking system built using Spring Boot and modern backend technologie
+ASpring Boot-Based Fitness Tracking Application with AI
 Ai Recomendations.
 
 ## 🚀 Features
